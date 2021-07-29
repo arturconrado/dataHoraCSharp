@@ -1,0 +1,3 @@
+
+cd Bin/
+./HoraData.exe
